@@ -56,7 +56,7 @@ kotlin {
                 compileOnly("io.github.funnysaltyfish:partial-json-parser:1.0.2")
                 compileOnly("io.github.oshai:kotlin-logging:7.0.3")
                 implementation("com.google.api-client:google-api-client:2.7.1")
-                implementation("com.google.oauth-client:google-oauth-client-jetty:1.36.0")
+                implementation("com.google.oauth-client:google-oauth-client-jetty:1.37.0")
                 implementation("com.google.apis:google-api-services-gmail:v1-rev20220404-2.0.0")
                 implementation("javax.mail:mail:1.4.7")
                 implementation("com.microsoft.onnxruntime:onnxruntime:1.20.0")
