@@ -17,7 +17,7 @@ snakeyaml = "2.3"
 jna = "5.15.0"
 guava = "33.4.0-jre"
 kotlin-logging-jvm = "7.0.3"
-logback-classic = "1.5.13"
+logback-classic = "1.5.14"
 
 [libraries]
 vertx-core = { module = "io.vertx:vertx-core", version.ref = "vertx" }
